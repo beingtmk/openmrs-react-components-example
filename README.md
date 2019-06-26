@@ -4,6 +4,8 @@
 
 ### Setting up openmrs-react-components repository
 
+**NOTE**: Some components may not be available in the main repo, so pls use my fork given below
+
 ```
 git clone https://github.com/beingtmk/openmrs-react-components.git
 cd openmrs-react-components
